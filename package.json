@@ -1,0 +1,11 @@
+{
+  "name": "apply.js",
+  "version": "1.0.0",
+  "description": "apply(function, args, [context]) ### args should be type of array or arguments",
+  "main": "apply.js",
+  "author": "steven chen <522702986@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
